@@ -8,9 +8,9 @@ Pokeguide es una aplicación web diseñada para ofrecer una experiencia interact
 
 ## Capturas de Pantalla
 
-![App Screenshot](assets/screenshots/App.png)
+![[App Screenshot]([assets/screenshots/App.png](https://github.com/eddiedev14/PokeDexius/blob/master/assets/screenshots/App.png?raw=true))](https://github.com/eddiedev14/PokeDexius/blob/master/assets/screenshots/App.png?raw=true)
 
-![App Screenshot](assets/screenshots/Modal.png)
+![[App Screenshot](assets/screenshots/Modal.png)](https://github.com/eddiedev14/PokeDexius/blob/master/assets/screenshots/Modal.png?raw=true)
 
 ## Features
 
