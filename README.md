@@ -3,7 +3,7 @@
 Pokeguide es una aplicación web diseñada para ofrecer una experiencia interactiva al usuario, permitiéndole explorar el vasto universo de los Pokémon a través de una interfaz moderna, intuitiva y completamente funcional. Utilizando la poderosa PokeAPI, la aplicación permite a los usuarios consultar, buscar y visualizar detalles de cada Pokémon, como sus estadísticas, habilidades y tipos, de manera fácil y accesible.
 ## Demo
 
-[Demo](https://pokeguide.vercel.app/)
+[Demo](https://pokevision.vercel.app/)
 
 
 ## Capturas de Pantalla
